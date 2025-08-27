@@ -1,0 +1,15 @@
+C:\thegoddysmart\Coding\C#\HelloCSharpPortfolio\HelloCSharpPortfolio\bin\Debug\net9.0\HelloCSharpPortfolio.exe
+C:\thegoddysmart\Coding\C#\HelloCSharpPortfolio\HelloCSharpPortfolio\bin\Debug\net9.0\HelloCSharpPortfolio.deps.json
+C:\thegoddysmart\Coding\C#\HelloCSharpPortfolio\HelloCSharpPortfolio\bin\Debug\net9.0\HelloCSharpPortfolio.runtimeconfig.json
+C:\thegoddysmart\Coding\C#\HelloCSharpPortfolio\HelloCSharpPortfolio\bin\Debug\net9.0\HelloCSharpPortfolio.dll
+C:\thegoddysmart\Coding\C#\HelloCSharpPortfolio\HelloCSharpPortfolio\bin\Debug\net9.0\HelloCSharpPortfolio.pdb
+C:\thegoddysmart\Coding\C#\HelloCSharpPortfolio\HelloCSharpPortfolio\obj\Debug\net9.0\HelloCSharpPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\thegoddysmart\Coding\C#\HelloCSharpPortfolio\HelloCSharpPortfolio\obj\Debug\net9.0\HelloCSharpPortfolio.AssemblyInfoInputs.cache
+C:\thegoddysmart\Coding\C#\HelloCSharpPortfolio\HelloCSharpPortfolio\obj\Debug\net9.0\HelloCSharpPortfolio.AssemblyInfo.cs
+C:\thegoddysmart\Coding\C#\HelloCSharpPortfolio\HelloCSharpPortfolio\obj\Debug\net9.0\HelloCSharpPortfolio.csproj.CoreCompileInputs.cache
+C:\thegoddysmart\Coding\C#\HelloCSharpPortfolio\HelloCSharpPortfolio\obj\Debug\net9.0\HelloCSharpPortfolio.sourcelink.json
+C:\thegoddysmart\Coding\C#\HelloCSharpPortfolio\HelloCSharpPortfolio\obj\Debug\net9.0\HelloCSharpPortfolio.dll
+C:\thegoddysmart\Coding\C#\HelloCSharpPortfolio\HelloCSharpPortfolio\obj\Debug\net9.0\refint\HelloCSharpPortfolio.dll
+C:\thegoddysmart\Coding\C#\HelloCSharpPortfolio\HelloCSharpPortfolio\obj\Debug\net9.0\HelloCSharpPortfolio.pdb
+C:\thegoddysmart\Coding\C#\HelloCSharpPortfolio\HelloCSharpPortfolio\obj\Debug\net9.0\HelloCSharpPortfolio.genruntimeconfig.cache
+C:\thegoddysmart\Coding\C#\HelloCSharpPortfolio\HelloCSharpPortfolio\obj\Debug\net9.0\ref\HelloCSharpPortfolio.dll
